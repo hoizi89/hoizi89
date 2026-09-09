@@ -23,3 +23,4 @@ I build open-source tools for [Home Assistant](https://www.home-assistant.io/): 
 - **[Blueprints](https://github.com/hoizi89/ha-blueprints)** — a small collection of automations.
 
 Bug reports and ideas are welcome in each repository's issues, in English or German.
+
