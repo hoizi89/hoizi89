@@ -4,9 +4,14 @@ I build open-source tools for [Home Assistant](https://www.home-assistant.io/): 
 
 <a href="https://buymeacoffee.com/hoizi89"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50"></a>
 
+## Contributions to Home Assistant
+
+- **[Network health page for ZHA](https://github.com/home-assistant/frontend/pull/53641)** — a page in the ZHA panel that shows at a glance which Zigbee devices are offline, have a weak signal or a low battery. Merged into the Home Assistant frontend.
+
 ## Energy
 
 - **[Power Origin](https://github.com/hoizi89/power-origin-card)** — a Lovelace card that answers one question first: where is the house's power coming from right now. Ring, columns, the day, the battery's night, and what the day earned. HACS.
+- **[Heat Origin](https://github.com/hoizi89/heat-origin-card)** — a card for a heat pump: where the heat comes from (electricity and air), what the stores hold, and where it goes.
 - **[PV Management](https://github.com/hoizi89/pv_management)** — integration for variable and spot tariffs (aWATTar, smartENERGY, Tibber) with battery management, EPEX Spot, Solcast, energy benchmark and amortization tracking.
 - **[PV Management Fix](https://github.com/hoizi89/pv_management_fix)** — the same for fixed-price tariffs: amortization, ROI, electricity quota, daily costs.
 
